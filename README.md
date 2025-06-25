@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagadeesh E</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">An evolving Data Scientist! </h3>
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
